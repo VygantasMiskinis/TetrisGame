@@ -1,0 +1,48 @@
+c:\users\r.bauras\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+c:\users\r.bauras\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+c:\users\r.bauras\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+c:\users\r.bauras\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Form1.resources
+c:\users\r.bauras\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+c:\users\r.bauras\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
+c:\users\r.bauras\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+c:\users\r.bauras\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojResolveAssemblyReference.cache
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojResolveAssemblyReference.cache
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Zaidimo_Ekranas.resources
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
+C:\Users\PG29057D\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.MenuLangas.resources
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\Tetris.MenuLangas.resources
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\Tetris.GameOver.resources
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\Tetris.Zaidimo_Ekranas.resources
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\Tetris.Valdymas.resources
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\Tetris.Username.resources
+C:\Users\saulius\OneDrive\vka\14 pamoka\Tetris\WindowsFormsApplication21\obj\Debug\Tetris.BestRezultatai.resources
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojAssemblyReference.cache
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\Tetris.BestRezultatai.resources
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\Tetris.Zaidimo_Ekranas.resources
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\Tetris.GameOver.resources
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\Tetris.MenuLangas.resources
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\Tetris.Username.resources
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\Tetris.Valdymas.resources
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.cache
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.CoreCompileInputs.cache
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.CopyComplete
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+C:\Users\vygan\OneDrive\tetris\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb
